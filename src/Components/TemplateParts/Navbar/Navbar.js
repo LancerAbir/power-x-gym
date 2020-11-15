@@ -5,6 +5,7 @@ const Navbar = () => {
 		<div>
 			<h2>nav bar </h2>
 			<h2>nav bar 2</h2>
+			<h2>nav bar 3</h2>
 		</div>
 	);
 };
