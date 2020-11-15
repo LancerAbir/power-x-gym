@@ -1,10 +1,12 @@
 import React from "react";
+//** Import Header */
+import Header from "../../TemplateParts/Header/Header";
 
 const HomePage = () => {
    return (
       <div>
-         <h2> Home Page </h2>
-         <h2> Home Page </h2>
+         {/** Header */}
+         <Header></Header>
       </div>
    );
 };
